@@ -68,7 +68,7 @@ restart SSH
 sudo systemctl restart sshd
 ```
 
-uji coba login SSH
+SSH login test
 
 ```
 ssh username@<IP Your SSH> -p <Port your SSH>
