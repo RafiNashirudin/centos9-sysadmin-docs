@@ -10,7 +10,7 @@ Dokumentasi ini disusun berdasarkan pengalaman langsung selama bootcamp dan dapa
 
 Dalam dokumentasi ini, saya akan membahas beberapa topik penting, di antaranya:
 
-1. ([ssh-configuration.md](https://github.com/RafiNashirudin/centos9-sysadmin-docs/blob/main/ssh-configuration.md))
+1. [ssh-configuration.md](https://github.com/RafiNashirudin/centos9-sysadmin-docs/blob/main/ssh-configuration.md)
 
    - SSH port configuration
    - Firewalld SSH port configuration
